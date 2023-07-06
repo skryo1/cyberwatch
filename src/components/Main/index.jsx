@@ -42,7 +42,7 @@ const Main = () => {
         </a> */}
         <a
           href="#"
-          className="border border-green-400 transition-all  border-solid px-6 py-3 rounded-md hover:bg-green-500  ease-in duration-300"
+          className="border border-green-400 text-center transition-all  border-solid max-sm:text-sm max-[340px]:text-[12px] px-6 py-3 rounded-md hover:bg-green-500  ease-in duration-300"
         >
           ADD OUR BOT
         </a>
