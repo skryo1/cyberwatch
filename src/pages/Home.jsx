@@ -3,7 +3,7 @@ import { Main } from "../components";
 
 const Home = () => {
   return (
-    <div>
+    <div className="max-sm:-mt-12">
       <Main />
     </div>
   );

@@ -8,7 +8,6 @@ const Main = () => {
       data-aos-delay="100"
       data-aos-duration="600"
       data-aos-easing="ease-out"
-      className="mb-20"
     >
       <div className="flex items-center justify-between mb-14 max-w-3xl mx-auto max-md:text-center ">
         <h4 className="text-2xl max-sm:text-[18px] text-transparent bg-clip-text bg-gradient-to-br from-green-400 to-green-600">
@@ -29,12 +28,12 @@ const Main = () => {
         all.
       </p>
       <div className="flex items-center justify-center gap-4">
-        <button className="px-6 py-3 bg-gradient-to-br from-green-400 to-green-600 rounded-md  hover:from-green-600 hover:to-green-400  hover:bg-green-600 transition ease-in-out duration-300">
+        <a href="#" className="px-6 py-3 text-center bg-gradient-to-br hover:bg-gradient-to-bl max-sm:text-sm max-[340px]:text-[12px] from-green-400 to-green-600 rounded-md hover:from-green-600 hover:to-green-400  hover:bg-green-600 transition ease-in-out duration-300">
           JOIN DISCORD
-        </button>
-        <button className="px-6 py-3 bg-gradient-to-br from-green-400 to-green-600 rounded-md  hover:from-green-600 hover:to-green-400 transition ease-in-out duration-300">
+        </a>
+        <a href="#" className="px-6 py-3 text-center bg-gradient-to-br hover:bg-gradient-to-bl max-sm:text-sm max-[340px]:text-[12px] from-green-400 to-green-600 rounded-md  hover:from-green-600 hover:to-green-400 transition ease-in-out duration-300">
           ADD OUR BOT
-        </button>
+        </a>
       </div>
     </main>
   );
