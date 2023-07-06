@@ -9,7 +9,7 @@ const Main = () => {
       data-aos-duration="600"
       data-aos-easing="ease-out"
     >
-      <div className="flex items-center justify-between mb-14 max-w-3xl mx-auto max-md:text-center ">
+      <div className="flex items-center justify-between mb-14 max-sm:mb-5 max-w-3xl mx-auto max-md:text-center ">
         <h4 className="text-2xl max-sm:text-[18px] text-transparent bg-clip-text bg-gradient-to-br from-green-400 to-green-600">
           50 CHEATERS CONVICTED
         </h4>
@@ -18,7 +18,7 @@ const Main = () => {
         </h4>
       </div>
 
-      <p className="text-center mb-5 max-w-3xl mx-auto leading-[30px] text-xl max-sm:text-lg">
+      <p className="text-center mb-5 max-w-3xl mx-auto leading-[30px] text-xl max-sm:text-base">
         Cyberwatch is an advanced anti-cheat system that combines human
         validation and verification to effectively combat cheating in games.
         With a dedicated team and powerful tools, it swiftly reviews evidence
