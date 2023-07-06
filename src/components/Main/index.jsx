@@ -28,10 +28,22 @@ const Main = () => {
         all.
       </p>
       <div className="flex items-center justify-center gap-4">
-        <a href="#" className="px-6 py-3 text-center bg-gradient-to-br hover:bg-gradient-to-bl max-sm:text-sm max-[340px]:text-[12px] from-green-400 to-green-600 rounded-md hover:from-green-600 hover:to-green-400  hover:bg-green-600 transition ease-in-out duration-300">
+        <a
+          href="#"
+          className="px-6 py-3 text-center bg-gradient-to-br hover:bg-gradient-to-bl max-sm:text-sm max-[340px]:text-[12px] from-green-400 to-green-600 rounded-md hover:from-green-600 hover:to-green-400  hover:bg-green-600 transition ease-in-out duration-300"
+        >
           JOIN DISCORD
         </a>
-        <a href="#" className="px-6 py-3 text-center bg-gradient-to-br hover:bg-gradient-to-bl max-sm:text-sm max-[340px]:text-[12px] from-green-400 to-green-600 rounded-md  hover:from-green-600 hover:to-green-400 transition ease-in-out duration-300">
+        {/* <a
+          href="#"
+          className="px-6 py-3 text-center bg-gradient-to-br hover:bg-gradient-to-bl max-sm:text-sm max-[340px]:text-[12px] from-green-400 to-green-600 rounded-md  hover:from-green-600 hover:to-green-400 transition ease-in-out duration-300"
+        >
+          ADD OUR BOT
+        </a> */}
+        <a
+          href="#"
+          className="border border-green-400 transition-all  border-solid px-6 py-3 rounded-md hover:bg-green-500  ease-in duration-300"
+        >
           ADD OUR BOT
         </a>
       </div>
