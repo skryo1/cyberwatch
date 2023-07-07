@@ -11,10 +11,10 @@ const Main = () => {
     >
       <div className="flex items-center justify-between mb-14 max-sm:mb-5 max-w-3xl mx-auto max-md:text-center ">
         <h4 className="text-2xl max-sm:text-[18px] text-transparent bg-clip-text bg-gradient-to-br from-green-400 to-green-600">
-          50 CHEATERS CONVICTED
+          <b>0</b> CHEATERS CONVICTED
         </h4>
         <h4 className="text-2xl max-sm:text-[18px] text-transparent bg-clip-text bg-gradient-to-br from-green-400 to-green-600">
-          INSTALLED IN OVER 50 GAMES
+          INSTALLED IN OVER <b>0</b> GAMES
         </h4>
       </div>
 
