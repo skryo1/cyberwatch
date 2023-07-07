@@ -19,13 +19,10 @@ const Main = () => {
       </div>
 
       <p className="text-center mb-5 max-w-3xl mx-auto leading-[30px] text-xl max-sm:text-base">
-        Cyberwatch is an <b>advanced anti-cheat</b> system that combines <b>human
-        validation</b> and verification to effectively <b>combat cheating</b> in games.
-        With a <b>dedicated team</b> and powerful tools, it swiftly reviews evidence
-        and issues <b>global bans.</b> The system also provides an <b>easy-to-use bot</b> to
-        look up previous convicts. <b>Cyberwatch empowers you to take
-        control of cheating</b>, ensuring fair play and a level playing field for
-        all.
+        Cyberwatch is an advanced anti-cheat system with human validation and verification to combat cheating in games. 
+        It has a dedicated team and powerful tools to swiftly review evidence and issue global bans. 
+        The system also provides an easy-to-use bot to look up previous convicts. 
+        Cyberwatch empowers you to take control of cheating, ensuring fair play for all.
       </p>
       <div className="flex items-center justify-center gap-4">
         <a
@@ -34,7 +31,7 @@ const Main = () => {
           rel="noopener noreferrer"
           className="px-6 py-3 text-center bg-gradient-to-br hover:bg-gradient-to-bl max-sm:text-sm max-[340px]:text-[12px] from-green-400 to-green-600 rounded-md hover:from-green-600 hover:to-green-400  hover:bg-green-600 transition ease-in-out duration-300"
         >
-          JOIN DISCORD
+          JOIN <b>DISCORD</b>
         </a>
         {/* <a
           href="#"
@@ -46,7 +43,7 @@ const Main = () => {
           href="#"
           className="border border-green-400 text-center transition-all  border-solid max-sm:text-sm max-[340px]:text-[12px] px-6 py-3 rounded-md hover:bg-green-500  ease-in duration-300"
         >
-          ADD OUR BOT
+          ADD OUR <b>BOT</b>
         </a>
       </div>
     </main>
