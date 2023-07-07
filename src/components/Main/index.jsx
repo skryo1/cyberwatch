@@ -19,12 +19,12 @@ const Main = () => {
       </div>
 
       <p className="text-center mb-5 max-w-3xl mx-auto leading-[30px] text-xl max-sm:text-base">
-        Cyberwatch is an advanced anti-cheat system that combines human
-        validation and verification to effectively combat cheating in games.
-        With a dedicated team and powerful tools, it swiftly reviews evidence
-        and issues global bans. The system also provides an easy-to-use bot to
-        look up previous convicts. Cyberwatch empowers developers to take
-        control of cheating, ensuring fair play and a level playing field for
+        Cyberwatch is an <b>advanced anti-cheat</b> system that combines <b>human
+        validation</b> and verification to effectively <b>combat cheating</b> in games.
+        With a <b>dedicated team</b> and powerful tools, it swiftly reviews evidence
+        and issues <b>global bans.</b> The system also provides an <b>easy-to-use bot</b> to
+        look up previous convicts. <b>Cyberwatch empowers you to take
+        control of cheating</b>, ensuring fair play and a level playing field for
         all.
       </p>
       <div className="flex items-center justify-center gap-4">
