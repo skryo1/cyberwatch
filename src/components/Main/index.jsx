@@ -26,7 +26,7 @@ const Main = () => {
       </p>
       <div className="flex items-center justify-center gap-4">
         <a
-          href="https://discord.gg/CNUnDdgqwV"
+          href="https://discord.gg/wxyebrrYAa"
           target="_blank"
           rel="noopener noreferrer"
           className="px-6 py-3 text-center bg-gradient-to-br hover:bg-gradient-to-bl max-sm:text-sm max-[340px]:text-[12px] from-green-400 to-green-600 rounded-md hover:from-green-600 hover:to-green-400  hover:bg-green-600 transition ease-in-out duration-300"
